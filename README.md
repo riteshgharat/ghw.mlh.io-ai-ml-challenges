@@ -1,5 +1,8 @@
-# A TIC-TAC-TOE Game.
+# ghw.mlh.io AI/ML Week Challenges 
 
+## Challenge 1
 ### It is a simple, two player tic-tac-toe game built with raw CSS and Javascript, no library used.
+![demo.gif](/challenge1/demo.gif "Demo Tic-Tac-Toe")
 
-![demo.gif](/demo.gif "Text to show on mouseover")
+## Challenge 2
+### Password generator using python
