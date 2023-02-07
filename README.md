@@ -9,3 +9,6 @@
 
 ## Challenge 3
 ### Talk to Books to get answers to your everyday questions.
+
+## Challenge 4
+### Represent a dataset pictorially
