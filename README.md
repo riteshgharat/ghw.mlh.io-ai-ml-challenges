@@ -5,4 +5,7 @@
 ![demo.gif](/challenge1/demo.gif "Demo Tic-Tac-Toe")
 
 ## Challenge 2
-### Password generator using python
+### Password generator using python.
+
+## Challenge 3
+### Talk to Books to get answers to your everyday questions.
